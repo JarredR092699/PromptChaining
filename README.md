@@ -2,7 +2,7 @@
 
 This repository contains the code examples and implementations discussed in my substack [article](https://open.substack.com/pub/jarredrobidouxx/p/prompt-chaining-with-claude?r=24t5ur&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) on prompt chaining with Claude. 
 
-![]('/Users/jarredrobidoux/Documents/LLM workflows/prompt chaining visual.png')
+![text]('/Users/jarredrobidoux/Documents/LLM workflows/prompt chaining visual.png')
 
 ## What's Inside
 
